@@ -1,0 +1,272 @@
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 1
+Enter text: carote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carote|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 1
+Enter text: dolphin
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carotedolphin|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 2
+Enter number of characters to delete: 5
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carotedo|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 2
+Enter number of characters to delete: 50
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 1
+Enter text: carote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carote|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 3
+Move cursor left by: 1
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carot|e
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 3
+Move cursor left by: 2
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+car|ote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 3
+Move cursor left by: 10
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+|carote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 4
+Move cursor right by: 1
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+c|arote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 4
+Move cursor right by: 2
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+car|ote
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 4
+Move cursor right by: 50
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carote|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 5
+Enter the text to search and highlight: 
+Invalid search text. Please provide a text to search for.
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 5
+Enter the text to search and highlight: ot
+car[ot]e
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 5
+Enter the text to search and highlight: xx
+String is not found in the text. Please try again.
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 6
+carote|
+
+1. Add Text
+2. Delete Text (Backspace)
+3. Move Cursor Left
+4. Move Cursor Right
+5. Find and highlight the text
+6. Display Text
+7. Exit
+Enter choice: 7
+Exiting...
