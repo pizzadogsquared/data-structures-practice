@@ -1,0 +1,103 @@
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Validate Delivery Path
+Valid delivery path
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Symmetric Route
+The route is symmetric
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Decoding Drone Instructions
+HoverScanFlyToFlyToHoverScanFlyToFlyTo
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Evaluating Path Conditions
+Result of path evaluation: 12
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Reversing Delivery Routes
+Point C -> Point F -> Point E -> Point A -> Point B -> Point D -> NULL
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Rotating Delivery Schedule
+Delivery 3 -> Delivery 4 -> Delivery 5 -> Delivery 6 -> Delivery 1 -> Delivery 2 -> NULL
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Task 8: Merging Delivery Routes
+Route A1 -> Route A2 -> Route A3 -> Route B1 -> Route B2 -> NULL
+
+Fleet Control System
+
+1. Validate Delivery Path
+2. Check Symmetric Route
+3. Decode Drone Instructions
+4. Evaluate Path Conditions
+5. Reverse Delivery Routes
+6. Rotate Delivery Schedule
+7. Merge Delivery Routes
+8. Exit
+Choose an option: Exiting...
