@@ -25,5 +25,5 @@ clean:
 
 # Creates a run routine to run your program
 run: $(TARGET)
-	./$(TARGET) > $(OUTPUT)
-#	./$(TARGET)
+#	./$(TARGET) > $(OUTPUT)
+	./$(TARGET)

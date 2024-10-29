@@ -667,7 +667,7 @@ Queue* createQueue()
     newQueue->front = NULL;
     
     // Initialize the rear to point to NULL
-    newNode->rear = NULL;
+    newQueue->rear = NULL;
     
     // Return the new queue
     return newQueue;
