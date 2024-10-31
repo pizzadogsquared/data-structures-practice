@@ -1,0 +1,264 @@
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 1
+Score 1 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 2
+Score 2 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 3
+Score 3 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 4
+Score 4 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 5
+Score 5 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 6
+Score 6 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 7
+Score 7 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 8
+Score 8 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 9
+Score 9 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 1
+Enter student score to add: 10
+Score 10 added to leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 3
+Current Leaderboard:
+1 2 3 4 5 6 7 8 9 10 
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 2
+Enter student score to remove: 7
+Score 7 removed from leaderboard.
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 3
+Current Leaderboard:
+1 2 3 4 5 6 8 9 10 
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 4
+Enter the value of K: 3
+The 3th smallest score is: 3
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 5
+Enter low range: 3
+Enter high range: 8
+The sum of scores between 3 and 8 is: 26
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 6
+Enter the first student score: 2
+Enter the second student score: 6
+The common friend student score between 2 and 6 is:4
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 7
+The length of the longest path between students is: 5
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 8
+Number of students meeting average performance: 6
+
+---- Leaderboard Menu ----
+1. Add a student score
+2. Remove a student score
+3. Print leaderboard
+4. Find the Kth smallest score
+5. Calculate range sum of scores
+6. Find common friend student
+7. Measure academic connectivity
+8. Identify Students Meeting Average Performance
+9. Exit
+Choose an option (1-10): 9
+Exiting program. Goodbye!
